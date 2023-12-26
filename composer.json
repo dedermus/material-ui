@@ -1,32 +1,32 @@
 {
-    "name": "jxlwqq/material-ui",
+    "name": "dedermus/material-ui",
     "description": "material ui for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/material-ui",
+    "homepage": "https://gitlab.com/dedermus/material-ui",
     "license": "MIT",
     "authors": [
         {
-            "name": "jxlwqq",
-            "email": "jxlwqq@gmail.com"
+            "name": "dedermus",
+            "email": "dedermus@gmail.com"
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "encore/laravel-admin": ">=1.6.1"
+        "php": "^7.3|^8.0",
+        "dedermus/laravel-admin": "~1.0.2"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
     },
     "autoload": {
         "psr-4": {
-            "Jxlwqq\\MaterialUI\\": "src/"
+            "Dedermus\\MaterialUI\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Jxlwqq\\MaterialUI\\MaterialUIServiceProvider"
+                "Dedermus\\MaterialUI\\MaterialUIServiceProvider"
             ]
 
         }

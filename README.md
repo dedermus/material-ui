@@ -15,14 +15,14 @@ Material-UI is a Material Design extension for [laravel-admin](https://github.co
 ## Installation
 
 ```bash
-composer require jxlwqq/material-ui
+composer require Dedermus/material-ui
 php artisan vendor:publish --tag=laravel-admin-material-ui
 ```
 
 ## Update
 
 ```bash
-composer update jxlwqq/material-ui
+composer update Dedermus/material-ui
 php artisan vendor:publish --tag=laravel-admin-material-ui --force
 ```
 
@@ -45,7 +45,7 @@ Just **Refresh** your browser.
 
 ## More resources
 
-[Awesome Laravel-admin](https://github.com/jxlwqq/awesome-laravel-admin)
+[Awesome Laravel-admin](https://github.com/Dedermus/awesome-laravel-admin)
 
 ## Special thanks
 

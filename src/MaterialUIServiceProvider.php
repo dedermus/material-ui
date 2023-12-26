@@ -1,8 +1,8 @@
 <?php
 
-namespace Jxlwqq\MaterialUI;
+namespace Dedermus\MaterialUI;
 
-use Encore\Admin\Admin;
+use Dedermus\Admin\Admin;
 use Illuminate\Support\ServiceProvider;
 
 class MaterialUIServiceProvider extends ServiceProvider

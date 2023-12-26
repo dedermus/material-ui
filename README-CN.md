@@ -15,14 +15,14 @@ laravel-admin >= 1.6.1
 ## 安装
 
 ```bash
-composer require jxlwqq/material-ui
+composer require Dedermus/material-ui
 php artisan vendor:publish --tag=laravel-admin-material-ui
 ```
 
 ## 更新
 
 ```bash
-composer update jxlwqq/material-ui
+composer update Dedermus/material-ui
 php artisan vendor:publish --tag=laravel-admin-material-ui --force
 ```
 
@@ -44,7 +44,7 @@ php artisan vendor:publish --tag=laravel-admin-material-ui --force
 
 ## 更多精选资源
 
-[Awesome Laravel-admin](https://github.com/jxlwqq/awesome-laravel-admin)
+[Awesome Laravel-admin](https://github.com/Dedermus/awesome-laravel-admin)
 
 ## 鸣谢
 

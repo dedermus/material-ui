@@ -1,8 +1,8 @@
 <?php
 
-namespace Jxlwqq\MaterialUI;
+namespace Dedermus\MaterialUI;
 
-use Encore\Admin\Extension;
+use Dedermus\Admin\Extension;
 
 class MaterialUI extends Extension
 {
